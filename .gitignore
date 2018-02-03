@@ -5,4 +5,5 @@
 pystun.egg-info
 build
 dist
+.mypy_cache
 env/
